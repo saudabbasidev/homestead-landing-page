@@ -3,17 +3,17 @@ const ProjectSection = () => {
     {
       name: "Pennsylvania apartment",
       p: " 3891 ranchew Dr Richardson, calfornia",
-      img: "2.png",
+      img: "2.avif",
     },
     {
       name: "California to housing",
       p: "3891 ranchew Dr Richardson, calfornia",
-      img: "1.png",
+      img: "1.avif",
     },
     {
       name: "Hawai Tower",
       p: " 4516 w. Gray,Utica Pennsylvania",
-      img: "3.png",
+      img: "3.avif",
     },
   ];
   return (

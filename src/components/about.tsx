@@ -19,7 +19,7 @@ const AboutSection = () => {
 
       <section className="bg-[#151515] p-5 text-white flex max-md:flex-col selection:bg-[#ebebeb] selection:text-[#252525] rounded-2xl">
         <div className="md:w-1/2 ">
-          <img src="/2im.png" alt="imgage" className="max-h-[771px] object-contain rounded-xl "/>
+          <img src="/2im.avif" alt="imgage" className="max-h-[771px] object-contain rounded-xl "/>
         </div>
         <div className="md:w-1/2 flex flex-col justify-between p-5 gap-10 py-10">
           <h1 className="lg:text-5xl text-3xl max-xs:text-2xl font-semibold">

@@ -34,7 +34,7 @@ const HeroSection = () => {
 
           <div className=" flex items-center w-full justify-center max-md:px-3 max-sm:p-0 ">
             <img
-              src="/hero.png"
+              src="/hero.avif"
               alt=""
               className=" max-h-175 object-contain max-md:rounded-xl brightness-90"
             />
