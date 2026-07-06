@@ -36,7 +36,7 @@ const HeroSection = () => {
             <img
               src="/hero.png"
               alt=""
-              className=" max-h-[700px] object-contain max-md:rounded-xl brightness-90"
+              className=" max-h-175 object-contain max-md:rounded-xl brightness-90"
             />
           </div>
         </section>
