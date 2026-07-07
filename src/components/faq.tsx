@@ -28,7 +28,7 @@ const faqs = [
 
 const FAQSection = () => {
   return (
-    <section className="bg-[#014DFE] text-white py-16 lg:py-24 mt-20">
+    <section className="bg-[#014DFE] w-screen mx-auto text-white py-16 lg:py-24 mt-20">
       <div className="max-w-7xl mx-auto px-6 lg:px-10 grid lg:grid-cols-2 gap-16 items-start">
         {/* Left */}
         <div>
